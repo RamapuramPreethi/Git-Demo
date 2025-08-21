@@ -1,2 +1,4 @@
 # Git-Demo
-This is my first responsitory
+This is my first responsitory.
+Author--Preethi
+
